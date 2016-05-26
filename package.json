@@ -1,0 +1,28 @@
+{
+  "name": "url-parse",
+  "version": "0.0.1",
+  "description": "url parse",
+  "main": "index.ts",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhwsa2010/url-parse.git"
+  },
+  "keywords": [
+    "url",
+    "parse",
+    "html"
+  ],
+  "author": "LA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhwsa2010/url-parse/issues"
+  },
+  "homepage": "https://github.com/lhwsa2010/url-parse#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
